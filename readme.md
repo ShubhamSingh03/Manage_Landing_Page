@@ -13,17 +13,17 @@
 ***
 ## Description
 
-This project [Manage Landing Page]() was built using Semantic HTML and **Tailwind** from scratch. While building this project I learnt and brushed up the concepts of Tailwind css framework.
+This project [Manage Landing Page](https://manage-homepagee.netlify.app/) was built using Semantic HTML and **Tailwind** from scratch. While building this project I learnt and brushed up the concepts of Tailwind css framework.
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://manage-homepagee.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/L3JjHzjo_i0)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Manage_Landing_Page)
 
 ***
 ### Built With 
@@ -99,18 +99,18 @@ This project [Manage Landing Page]() was built using Semantic HTML and **Tailwin
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 <br>
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
 * [Github](https://github.com/ShubhamSingh03)
-* [Findcoder]()
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#manage-landing-page)
